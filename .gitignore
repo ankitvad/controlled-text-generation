@@ -109,3 +109,8 @@ ENV/
 *.snm
 *.synctex.gz
 *.toc
+
+/models
+.vscode
+.data
+.vector_cache
